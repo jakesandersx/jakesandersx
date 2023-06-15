@@ -21,7 +21,7 @@
 
 ### About Me :
 
-I am a Computer Science / Web & Mobile App Development Student from the United States :us:
+I am a Computer Science / Web & Mobile App Development Student from the United States :us_outlying_islands:
 
 - :seedling: Interested in Data Mining sports using Python.
 
