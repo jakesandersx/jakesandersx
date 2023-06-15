@@ -51,4 +51,5 @@ I am a Computer Science / Web & Mobile App Development Student from the United S
 
 ### Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jakesandersx&theme=highcontrast&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
