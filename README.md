@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Computer Science / Web & Mobile App Development Student from the United States :🇺🇸:.
+I am a Computer Science / Web & Mobile App Development Student from the United States :us:
 
 - :seedling: Interested in Data Mining sports using Python.
 
