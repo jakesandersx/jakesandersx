@@ -3,6 +3,7 @@
   Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -16,7 +17,7 @@ I am a Computer Science / Web & Mobile App Development Student from the United S
 
 - :zap: In my free time, I am into fitness and aviation.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jake-sanders-079343293/)
+- :mailbox:How to reach me: [me@jakesanders.xyz](mailto:me@jakesanders.xyz)
 
 ---
 
