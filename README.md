@@ -15,7 +15,7 @@ I am a Computer Science / Web & Mobile App Development Student
 
 - :zap: I enjoy using python to mine and analyze sport data, specifically baseball
 
-- :zap: In my free time, I am into fitness, aviation, racing, photography, and more.
+- :zap: In my free time, I am into fitness, aviation, racing, photography / videography, and more.
 
 - :mailbox:How to reach me: [me@jakesanders.xyz](mailto:me@jakesanders.xyz)
 
