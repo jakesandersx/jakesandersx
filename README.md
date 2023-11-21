@@ -16,7 +16,7 @@ I am a Computer Science / Web & Mobile App Development Student
 
 - :zap: In my free time, I am into fitness, aviation, racing, photography / videography, and more.
 
-- :mailbox:How to reach me: [me@jakesanders.xyz](mailto:me@jakesanders.xyz)
+- :mailbox:How to reach me: [jakesandersx@hotmail.com](mailto:jakesandersx@hotmail.com)
 
 ---
 
