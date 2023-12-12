@@ -12,9 +12,9 @@
 
 I am a Computer Science / Web & Mobile App Development Student
 
-- :zap: I enjoy using python to mine and analyze sport data, specifically baseball
+- :zap: I enjoy visualizing and analyzing data, specifically sports data
 
-- :zap: In my free time, I am into fitness, aviation, racing, photography / videography, and more.
+- :zap: In my free time, I am into fitness, aviation, racing, photography / videography, and more
 
 - How to reach me: [jakesandersx@hotmail.com](mailto:jakesandersx@hotmail.com)
 
